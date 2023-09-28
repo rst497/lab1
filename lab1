@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Rebeca Taipe Personal Portfolio
+        </title>
+    </head>
+<body>
+    <h1 style="color:darkolivegreen">
+    Rebeca Taipe
+</h1>
+<h3>
+    New Jersey Institute of Technology<br>Undergraduate Architecture Student<br>Class of 2027 UCID: rt497
+    </h3>
+    <p style="color:brown" style="background-color: black;">
+    My name is Rebeca Taipe and I am in the Architecture program in NJIT, planning to graduate in 2027<br> I was born in Peru and came to the US when I was seven years old.<br>I wanted to become and Architect when I took my first class in Montclair Highschool.<br>
+    </p>
+    <a href="https://design.njit.edu/bachelor-architecture">J.Robert and Barbara A. Hillier College of Architecture and Design</a>
+    <img src="c:\Users\rtaip\OneDrive\Pictures\rebeca...jpg" alt="me"> 
+</body>
+</html>    
